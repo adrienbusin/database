@@ -1,10 +1,6 @@
 {
   "contacts": [
    {
-      "tags":[
-         7,
-         "consectetur"
-      ],
       "address":{
          "zip":59368,
          "state":"South Dakota",
@@ -23,10 +19,6 @@
       }
    },
    {
-      "tags":[
-         7,
-         "consectetur"
-      ],
       "address":{
          "zip":14422,
          "state":"Oklahoma",
@@ -45,10 +37,6 @@
       }
    },
    {
-      "tags":[
-         7,
-         "consectetur"
-      ],
       "address":{
          "zip":22182,
          "state":"New Mexico",
@@ -67,10 +55,6 @@
       }
    },
    {
-      "tags":[
-         7,
-         "consectetur"
-      ],
       "address":{
          "zip":66668,
          "state":"Iowa",
@@ -89,10 +73,6 @@
       }
    },
    {
-      "tags":[
-         7,
-         "consectetur"
-      ],
       "address":{
          "zip":53900,
          "state":"District Of Columbia",
@@ -111,10 +91,6 @@
       }
    },
    {
-      "tags":[
-         7,
-         "consectetur"
-      ],
       "address":{
          "zip":37214,
          "state":"Connecticut",
@@ -133,10 +109,6 @@
       }
    },
    {
-      "tags":[
-         7,
-         "consectetur"
-      ],
       "address":{
          "zip":34154,
          "state":"New Jersey",
